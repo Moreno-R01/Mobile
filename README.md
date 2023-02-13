@@ -1,2 +1,4 @@
-##Primeros pasos para aprender desarrolo mobile
+## Primeros pasos para aprender desarrolo mobile  
+
+
 #Proyectos
